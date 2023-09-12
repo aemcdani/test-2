@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/aemcdani/test-2/tree/gh-pages) branch hosts the contents of this directory at <https://aemcdani.github.io/test-2/>.
-The permalink for this webpage version is <https://aemcdani.github.io/test-2/v/8c1a803748961dcf6b7e8ed4d5ec8f8ce6d5a2a9/>.
+The permalink for this webpage version is <https://aemcdani.github.io/test-2/v/0cf6b42226add76d64fc094e261b7bc4da823f41/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://aemcdani.github.io/test-2/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`8c1a803748961dcf6b7e8ed4d5ec8f8ce6d5a2a9`](https://github.com/aemcdani/test-2/commit/8c1a803748961dcf6b7e8ed4d5ec8f8ce6d5a2a9).
+[`0cf6b42226add76d64fc094e261b7bc4da823f41`](https://github.com/aemcdani/test-2/commit/0cf6b42226add76d64fc094e261b7bc4da823f41).
